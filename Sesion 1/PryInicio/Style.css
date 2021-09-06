@@ -1,0 +1,24 @@
+body{
+    background-color: cornflowerblue;
+    font-family: Impact;
+}
+
+
+h1{
+    color: white;
+
+}
+
+p{
+    font-family: cursive;
+    font-size: 17px;
+}
+
+.fila{
+    background-color: salmon;
+    font-family: Verdana;
+}
+
+tr{
+    background-color: white;
+}
