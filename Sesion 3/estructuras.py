@@ -24,3 +24,4 @@ capitales = {"Chile":"Santiago", "España":"Madrid", "Francia":"París"}
 #print(capitales)
 capitales = {"Chile":"Santiago", "España":"Madrid","Francia":"Torre","Francia":"París"} #El último valor que se le asigna al mismo id en un diccionario reemplaza al anterior.
 #print(capitales)
+producto= {"Manzana":1, "Chocolate":4,"Botella de Agua":2,"Juguete":10} 
