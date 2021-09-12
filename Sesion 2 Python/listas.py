@@ -7,8 +7,8 @@ print(lista1[:])
 print(lista1[2])
 print(lista1[-1])
 
-print(lista1[1:3]) #3 elementos desde la pos 1
-print(lista1[:3]) #3 elementos desde la pos 0
+print(lista1[1:3]) # elementos desde la pos 1 al 2
+print(lista1[:3]) # elementos desde la pos 0 al 2
 print(lista1[2:]) #3 Todos los elementos desde la pos 2
 
 lista1.append("Lichie")
